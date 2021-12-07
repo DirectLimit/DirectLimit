@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @DirectLimit
 - 👀 I’m interested in all things math
-- 🌱 I’m currently learning Deep learning
+- 🌱 I’ve recently completed an Udacity Nanodegree course on Deep learning
+- 🌱 I have just graduated from the Science to Data Science(S2DS) Bootcamp based in London
 - 💞️ I’m looking to collaborate on Data Science project
 - 📫 How to reach me : indrava@gmail.com
 
