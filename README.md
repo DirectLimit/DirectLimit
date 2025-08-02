@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @DirectLimit
-- 👀 I’m interested in all things math
-- 🌱 I’ve recently completed an Udacity Nanodegree course on Deep learning
-- 🌱 I have just graduated from the Science to Data Science(S2DS) Bootcamp based in London
-- 💞️ I’m looking to collaborate on Data Science project
-- 📫 How to reach me : indrava@gmail.com
+- 👀 I’m interested in all things Math and AI
+- 📫 How to reach me : indrava.roy@gmail.com
 
 <!---
 DirectLimit/DirectLimit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
